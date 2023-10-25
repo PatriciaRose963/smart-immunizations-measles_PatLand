@@ -1,0 +1,13 @@
+{
+  "url" : "http://moh.Patland/ig/smart-immunizations-measles/ImplementationGuide/PatLand-who.fhir.smart-immunizations-measles",
+  "name" : "SMART",
+  "package-id" : "PatLand-who.fhir.smart-immunizations-measles",
+  "ig-ver" : "0.1.0",
+  "date" : "Wed, 25 Oct, 2023 14:10:43 +0000",
+  "errs" : 103,
+  "warnings" : 64,
+  "hints" : 20,
+  "version" : "4.0.1",
+  "tool" : "5.0.0 (3)",
+  "maxMemory" : 3403910736
+}
